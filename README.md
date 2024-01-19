@@ -1,4 +1,3 @@
-# Movie-Recommendation-System
-Movie Recommendation System
+# Credit Card Fraud Detection
 Overview
-This project aims to build a movie recommendation system using [insert the name of the recommendation algorithm or technique]. The system analyzes user preferences and provides personalized movie recommendations based on their viewing history and preferences.
+This project focuses on detecting credit card fraud using machine learning techniques. The implemented model uses [mention the model or algorithm used] to identify potentially fraudulent transactions.
